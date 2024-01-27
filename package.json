@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Finral23/node-lab1/issues"
   },
-  "homepage": "https://github.com/Finral23/node-lab1#readme",
+  "homepage": "https://github.com/Finral23/node-lab1-main",
   "devDependencies": {
     "eslint": "^8.56.0",
     "eslint-config-semistandard": "16.0.0",
